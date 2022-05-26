@@ -9,5 +9,7 @@
 ### [Spring CORE](https://github.com/next-step/spring-hellowolrd/tree/core)
 - [학습코드](https://github.com/ulimy/spring-learning-test/tree/ulimy_core)
 ### [Spring MVC Config](https://github.com/next-step/spring-hellowolrd/tree/mvc-config)
+- [학습코드](https://github.com/ulimy/spring-learning-test/tree/ulimy_mvc-config)
 ### [Spring Auth](https://github.com/next-step/spring-hellowolrd/tree/auth)
+- [학습코드](https://github.com/ulimy/spring-learning-test/tree/ulimy_auth)
 ### [Spring Configuration](https://github.com/next-step/spring-learning-test/tree/config)
